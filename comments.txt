@@ -1,0 +1,7 @@
+git init
+git add .
+git commit -m 'first'
+gst
+git remote add origin https://github.com/Jitgitbit/kotlin_exercise_two.git
+git push -u origin master
+gst
