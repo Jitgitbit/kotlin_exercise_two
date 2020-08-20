@@ -14,3 +14,8 @@ git add .
 git commit -m 'version control up to Pie'
 git push origin
 gst
+
+git add .
+git commit -m 'playing with activities'
+git push origin
+gst
