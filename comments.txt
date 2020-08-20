@@ -9,3 +9,8 @@ git add .
 git commit -m 'second'
 git push origin
 gst
+
+git add .
+git commit -m 'version control up to Pie'
+git push origin
+gst
