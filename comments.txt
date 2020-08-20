@@ -5,3 +5,7 @@ gst
 git remote add origin https://github.com/Jitgitbit/kotlin_exercise_two.git
 git push -u origin master
 gst
+git add .
+git commit -m 'second'
+git push origin
+gst
