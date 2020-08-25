@@ -19,3 +19,8 @@ git add .
 git commit -m 'playing with activities'
 git push origin
 gst
+
+git add .
+git commit -m 'playing with layout'
+git push origin
+gst
