@@ -29,3 +29,8 @@ git add .
 git commit -m 'design details'
 git push origin
 gst
+
+git add .
+git commit -m 'layout and kotlin coming together'
+git push origin
+gst
