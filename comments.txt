@@ -24,3 +24,8 @@ git add .
 git commit -m 'playing with layout'
 git push origin
 gst
+
+git add .
+git commit -m 'design details'
+git push origin
+gst
