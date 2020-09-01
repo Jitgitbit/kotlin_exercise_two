@@ -39,3 +39,8 @@ git add .
 git commit -m 'calculating the tip'
 git push origin
 gst
+
+git add .
+git commit -m 'calculating the tip, refactored'
+git push origin
+gst

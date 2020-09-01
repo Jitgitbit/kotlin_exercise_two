@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
             val total = bill + tip
 
             infoTextView.visibility = View.VISIBLE
-            infoTextView.text = "Tip: \$" + tip + " Total: \$" + total
+            infoTextView.text = "Tip: \$${tip} Total: \$${total}"
         }
     }
 }
