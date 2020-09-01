@@ -23,4 +23,8 @@ class MainActivity : AppCompatActivity() {
             infoTextView.text = "Tip: \$${tip} Total: \$${total}"
         }
     }
+
+    fun doubleToDollar(number:Double): String {
+        return "$" + String.format("%.2f",number)
+    }
 }
